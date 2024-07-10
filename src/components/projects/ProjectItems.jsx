@@ -6,7 +6,7 @@ const ProjectItems = ({item}) => {
         <div className="project__card" key={item.id}>
             <img className="project__img" src={item.image} alt="" />
             <h3 className="project__title">{item.title}</h3>
-            <a href="#" className="project__button">
+            <a href={item.link} className="project__button">
                 Demo <HiOutlineArrowSmRight className="project__button-icon" />
             </a>
         </div>
