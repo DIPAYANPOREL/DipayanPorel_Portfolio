@@ -38,7 +38,7 @@ const Scroll = () => {
                     stroke: "var(--title-color)",
                     strokeWidth: "20px",
                     }}
-                ></path>
+                 ></path>
             </svg>
             <span className="home__scroll-name">Scroll Down</span>
             <HiOutlineArrowSmDown className="home__scroll-arrow"/>
