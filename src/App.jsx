@@ -23,6 +23,7 @@ const App = () => {
       </main>
       <Footer />
       <ScrollUp />
+      
     </>
   );
 }
