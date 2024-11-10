@@ -66,7 +66,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle">Salahkaar Consultant</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                Jul 2024 - Present
+                                Jul 2024 - Oct 2024
                             </div>
                         </div>
                         <div>
@@ -132,7 +132,7 @@ const Qualification = () => {
                         <div>
                             <h3 className="qualification__title">Information Technology(B.Tech)</h3>
                             <span className="qualification__subtitle">Heritage Institute of Technology</span>
-                            <span className="qualification__subtitle">Marks - 7.32(CGPA)</span>
+                            <span className="qualification__subtitle">Marks - 7.03(CGPA)</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 2022-Present
